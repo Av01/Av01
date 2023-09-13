@@ -2,7 +2,7 @@
 Talk to me about: *Machine Learning | Artificial Intelligence | Data Science | Generative AI | Reinforcement Learning | Logic | Optimization | Software Engineering | Cloud Technologies | Funtional Programming | Programming Languages | Type Theory | Category Theory | Quantum Computing*
 
 
-I'm a passionate MS in Computer Science student with a focus on Machine Learning and Data Science with a strong experience in Software Engineering. I thrive on turning data into actionable insights and creating intelligent solutions. Let's explore my journey:
+I'm a passionate MS in Computer Science student with a focus on Machine Learning and Data Science with a strong experience in Software Engineering. I thrive on turning data into actionable insights and creating intelligent solutions. Feel free to reach out to me via [Email](mailto:voraakash01@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aakashvora/). Let's explore my journey:
 
 ## 🔧 Technical Skills
 - **Languages**:
@@ -71,6 +71,3 @@ I'm a passionate MS in Computer Science student with a focus on Machine Learning
 - *Abstract:* The advent of Internet Of Things has led to the problem of an explosive outburst of data. Because of this, there is a need of an advanced data acquisition and data reduction system. We present two approaches for data reduction by sensor selection, leveraging the power of Machine Learning. The first approach uses Principal Component Analysis and the second approach uses Reinforcement Learning to identify k significant sensors from the n total sensors that closely resemble the original data statistically. This approach is applied on the data available from sensors deployed in South Brazil, as well as on the data collected from a sensor field we set up in the Computer Engineering Department. The results from both the datasets show significant data reduction while maintaining the characteristics of the original data.
 - *Key Results:* Innovatively solved NP-hard Sensor selection using RL, boosting accuracy and efficiency. Our approach, applicable to various goals like coverage and energy efficiency, reduces the need for active sensors by 50%.
 
-
-
-Let's connect and collaborate on exciting projects! Feel free to reach out to me via [Email](mailto:voraakash01@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aakashvora/).
